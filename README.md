@@ -12,7 +12,7 @@ These are some of the major technologies that I use:
 
 **Programming Languages**
 
-<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" /> <img alt="TS" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> <img title="JavaScript" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> <img alt="TS" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"> <img title="JavaScript" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 
 
 **Libraries and Frameworks**
