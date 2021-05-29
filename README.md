@@ -4,7 +4,6 @@ I'm a **Data Technician with specialty in programming**, currently studying at *
 
 - 🔭 I’m currently working on **X** project
 - 🌱 I’m currently learning **Angular** & **Docker**
-- 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
 ## Skill Set :muscle:
