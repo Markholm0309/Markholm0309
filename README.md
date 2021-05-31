@@ -2,7 +2,7 @@
 
 I'm a **Data Technician with specialty in programming**, currently studying at **Techcollege Aalborg**.
 
-- 🔭 I’m currently working on a **C#** x **Angular** project
+- 🔭 I’m currently working on **X** project
 - 🌱 I’m currently learning **Angular** & **Docker**
 - ⚡ Fun fact: ...
 
