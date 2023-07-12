@@ -1,6 +1,6 @@
 ## <h1>Hi There, I'm <a  href="https://www.markholmjustesen.dk/" target="_blank">Mark</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
  
-*I'm currently studying at Techcollege Aalborg, as **data technician specialized in programming**. I work at Keysight Technologies as a **software developer apprentice**.*
+*I'm a **data technician specialized in programming**. I work at Keysight Technologies as a **software developer apprentice**.*
 
 <!--
 - 🔭 I’m currently working on **X** project
