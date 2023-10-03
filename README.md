@@ -18,7 +18,7 @@ These are some of the major technologies that I use:
 
 **Libraries and Frameworks**
 
-<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"/> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/> <img title="Blazor" alt="Blazor" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/>
+<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"/> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/> <!-- <img title="Blazor" alt="Blazor" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/> -->
 
 **Tools**
 
