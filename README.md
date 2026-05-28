@@ -18,8 +18,10 @@ These are some of the major technologies that I use:
 
 **Libraries and Frameworks**
 
-<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"/> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/> <!-- <img title="Blazor" alt="Blazor" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png"/> -->
+<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"/> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"/> <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
 
-**Tools**
+**Cloud, DevOps & Tools**
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"><img title="Rider" alt="Rider" width="40px" src="https://img.icons8.com/fluent/48/000000/rider-jetbrains.png">
+<img title="Docker" alt="Docker" width="40px" src="https://img.icons8.com/fluent/48/000000/docker.png"> <img title="Postgresql" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+
+<!--<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"><img title="Rider" alt="Rider" width="40px" src="https://img.icons8.com/fluent/48/000000/rider-jetbrains.png"> --
